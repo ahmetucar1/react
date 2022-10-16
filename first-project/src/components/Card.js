@@ -18,9 +18,6 @@ class Card  extends React.Component {
     }
 }
   
-/* Card.defaultProps = {
-    cardTitle: "Galatasaray"
-} */
 
 export default Card;
 
